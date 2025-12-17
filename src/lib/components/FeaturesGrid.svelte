@@ -12,9 +12,9 @@
                 {/each}
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Scale every channel</h3>
+        <h3 class="text-xl font-bold text-white mb-3">WhatsApp-native reporting</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Connect and scale Slack, Microsoft Teams, Discord, portal, email, chat, forms and more with the fastest support inbox ever built.
+          No new apps to learn. Your team already uses WhatsApp daily. Just send photos like you always do, and progeto handles the rest automatically.
         </p>
       </div>
 
@@ -36,9 +36,9 @@
                 Negative shift
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Understand every customer</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Computer vision tracking</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Drive product and revenue. Automatically surface product themes, customer trends, and churn signals.
+          Advanced AI identifies construction milestones from photos. Track foundation, framing, electrical, plumbing, and finishing automatically.
         </p>
       </div>
 
@@ -54,9 +54,9 @@
                  <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Draft reply</div>
              </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Empower every team member</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Professional progress reports</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Supercharge your team with AI built for B2B. Triage queries, engage customers, and investigate technical queries with accuracy.
+          Generate client-ready reports instantly. Timeline views, milestone completion, photo galleries, and progress percentages—all automated.
         </p>
       </div>
 

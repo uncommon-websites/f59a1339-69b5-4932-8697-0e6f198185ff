@@ -7,27 +7,27 @@
     
     <!-- Badge -->
     <a href="#" class="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-green-50 border border-green-100 text-green-600 text-xs font-medium mb-8 hover:bg-green-100 transition-colors">
-      Introducing the new Plain AI suite
+      WhatsApp-native progress reporting
       <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
     </a>
 
     <!-- Headline -->
     <h1 class="text-5xl md:text-7xl font-bold tracking-tight text-gray-900 mb-6 max-w-4xl mx-auto leading-[1.1]">
-      <span class="text-plain-green">10x</span> your support <br class="hidden md:block" /> not your team
+      Turn WhatsApp photos into <span class="text-plain-green">structured</span> progress reports
     </h1>
 
     <!-- Subheadline -->
     <p class="text-lg md:text-xl text-gray-500 mb-10 max-w-2xl mx-auto leading-relaxed">
-      Plain is the fastest support platform ever built, backed by a world-class API. Start fast. Scale fearlessly.
+      Stop chasing construction photos across WhatsApp threads. progeto uses computer vision to transform daily site photos into professional progress reports automatically.
     </p>
 
     <!-- Buttons -->
     <div class="flex flex-col sm:flex-row items-center gap-4 mb-20">
       <a href="#" class="px-6 py-3 text-sm font-bold bg-plain-green text-white rounded hover:bg-green-400 transition-colors uppercase tracking-wide shadow-sm shadow-green-200">
-        Book a Demo
+        Start Free Trial
       </a>
       <a href="#" class="px-6 py-3 text-sm font-bold border border-gray-200 text-gray-700 rounded hover:border-gray-400 transition-colors uppercase tracking-wide bg-white">
-        14 Day Free Trial
+        See How It Works
       </a>
     </div>
 
@@ -42,7 +42,7 @@
         </div>
         <div class="flex-1 text-center">
           <div class="inline-flex items-center justify-center px-3 py-0.5 rounded bg-white border border-gray-200 text-[10px] text-gray-400 font-mono shadow-sm">
-            plain.com/app
+            progeto.app
           </div>
         </div>
       </div>
